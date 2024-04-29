@@ -1,0 +1,21 @@
+.container {
+    align-items: center;
+}
+
+h2 {
+    align-items: center;
+}
+
+@media screen and(max-width: 768px) {}
+
+body {
+    background-color: pink;
+}
+
+.vitor {
+    align-content: center;
+}
+
+.produto {
+    align-items: center;
+}
